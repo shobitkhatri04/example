@@ -1,0 +1,41 @@
+
+.test
+{
+    border:2px solid black;
+    height:800px;
+    width:100%;
+    float:left;
+    text-align:center;
+}
+.box
+{
+    border:2px solid black;
+    height:100px;
+    width:100%;
+    float:left;
+    text-align:center;
+}
+.box1
+{
+    border:2px solid black;
+    height:300px;
+    width:42.5%;
+    float:left;
+    text-align:center;
+}
+.box2
+{
+    border:2px solid black;
+    height:150px;
+    width:20%;
+    float:left;
+    text-align:center;
+}
+.box3
+{
+    border:2px solid black;
+    height:150px;
+    width:20%;
+    float:left;
+    text-align:center;
+}

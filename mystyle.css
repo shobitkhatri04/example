@@ -1,0 +1,32 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+.box
+{
+    border:1px solid black;
+    height:70px;
+    width:100%;
+    float:left;
+    text-align:center;
+}
+.box1
+{
+    
+    border:1px solid black;
+    height:250px;
+    width:49.7%;
+    float:left;
+    text-align:center;
+
+}
+.box2
+{
+    border:1px solid black;
+    height:250px;
+    width:50%;
+    float:left;
+    text-align:center;
+
+}
